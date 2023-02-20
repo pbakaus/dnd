@@ -110,7 +110,7 @@ specifiers:
   react-redux: ^8.0.4
   react-virtualized: 9.22.3
   react-window: 1.8.8
-  redux: ^4.2.0
+  redux: ^4.2.1
   release-it: 15.6.0
   require-from-string: 2.0.2
   rimraf: 4.1.2
@@ -134,8 +134,8 @@ dependencies:
   css-box-model: 1.2.1
   memoize-one: 6.0.0
   raf-schd: 4.0.3
-  react-redux: 8.0.4_epqzsux5te4oifde32lbaj3ih4
-  redux: 4.2.0
+  react-redux: 8.0.4_ctrls2ti7t7iutxbwkm5ipogyy
+  redux: 4.2.1
   use-memo-one: 1.1.3_react@18.2.0
 
 devDependencies:
@@ -5126,7 +5126,7 @@ packages:
       '@types/hoist-non-react-statics': 3.3.1
       '@types/react': 18.0.28
       hoist-non-react-statics: 3.3.2
-      redux: 4.2.0
+      redux: 4.2.1
     dev: true
 
   /@types/react-virtualized/9.21.21:
@@ -15260,7 +15260,7 @@ packages:
     resolution: {integrity: sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==}
     dev: true
 
-  /react-redux/8.0.4_epqzsux5te4oifde32lbaj3ih4:
+  /react-redux/8.0.4_ctrls2ti7t7iutxbwkm5ipogyy:
     resolution: {integrity: sha512-yMfQ7mX6bWuicz2fids6cR1YT59VTuT8MKyyE310wJQlINKENCeT1UcPdEiX6znI5tF8zXyJ/VYvDgeGuaaNwQ==}
     peerDependencies:
       '@types/react': ^16.8 || ^17.0 || ^18.0
@@ -15290,7 +15290,7 @@ packages:
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
       react-is: 18.2.0
-      redux: 4.2.0
+      redux: 4.2.1
       use-sync-external-store: 1.2.0_react@18.2.0
     dev: false
 
@@ -15492,8 +15492,8 @@ packages:
       strip-indent: 3.0.0
     dev: true
 
-  /redux/4.2.0:
-    resolution: {integrity: sha512-oSBmcKKIuIR4ME29/AeNUnl5L+hvBq7OaJWzaptTQJAntaPvxIJqfnjbaEiCzzaIz+XmVILfqAM3Ob0aXLPfjA==}
+  /redux/4.2.1:
+    resolution: {integrity: sha512-LAUYz4lc+Do8/g7aeRa8JkyDErK6ekstQaqWQrNRW//MY1TvCEpMtpTWvlQ+FPbWCx+Xixu/6SHt5N0HR+SB4w==}
     dependencies:
       '@babel/runtime': 7.21.0
 
